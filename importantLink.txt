@@ -1,0 +1,7 @@
+
+
+
+2. Strategy design patter
+    a.https://medium.com/@luiscelismx/implementing-strategy-pattern-node-js-8677537104ae
+
+    `
